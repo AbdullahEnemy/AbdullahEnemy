@@ -16,7 +16,7 @@ ASE • BS(CS) • ☁️ AWS/Cloud • 💻 Full-Stack Web/App • 🤖 LLM Tra
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/abdullahfayyaz5208)
-[![](https://img.shields.io/badge/Portfolio-black)](https://portfolio-website-ikh1k4qc6-abdullah-fayyazs-projects.vercel.app/)
+[![](https://img.shields.io/badge/Portfolio-black)](https://portfolio-website-weld-six-68.vercel.app/)
 
 <br>
 
